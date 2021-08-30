@@ -1,2 +1,2 @@
 # practice-01
-Primer proyecto de programaación
+Primer proyecto de programación
